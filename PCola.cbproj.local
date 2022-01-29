@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/01/13 07:57:35.000.403,=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2021/01/13 07:57:35.000.430,=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2021/01/20 08:25:18.000.635,=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2021/01/20 08:25:18.000.612,=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2021/03/16 19:49:31.000.728,=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2021/03/16 19:49:31.000.697,=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2021/10/08 10:01:30.000.612,=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2021/10/08 10:01:30.000.643,=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2021/12/10 09:41:47.000.044,=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2021/12/10 09:41:47.000.017,=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2021/12/10 09:42:03.000.599,=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>2021/12/10 10:22:11.000.163,D:\Practica\Estructuras de Datos I 2 2021\Colas\UCola.h=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit2.h</Transaction>
+    <Transaction>2021/12/10 10:22:11.000.163,D:\Practica\Estructuras de Datos I 2 2021\Colas\UCola.cpp=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>2021/12/10 10:22:20.000.734,D:\Practica\Estructuras de Datos I 2 2021\Colas\UPrincipal.dfm=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2021/12/10 10:22:20.000.734,D:\Practica\Estructuras de Datos I 2 2021\Colas\UPrincipal.cpp=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2021/12/10 10:22:20.000.734,D:\Practica\Estructuras de Datos I 2 2021\Colas\UPrincipal.h=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2021/12/10 10:22:22.000.950,D:\Practica\Estructuras de Datos I 2 2021\Colas\Project1PCH1.h=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2021/12/10 10:22:31.000.327,D:\Practica\Estructuras de Datos I 2 2021\Colas\PColaPCH1.h=D:\Practica\Estructuras de Datos I 2 2021\Colas\Project1PCH1.h</Transaction>
+    <Transaction>2021/12/10 10:22:31.000.342,D:\Practica\Estructuras de Datos I 2 2021\Colas\PCola.cbproj=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
